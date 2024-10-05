@@ -25,7 +25,7 @@ public class GUI extends javax.swing.JFrame {
     }
     
     private void limpiarCampos() {
-    txtNombre.setText("");
+    txtNombre.setText(" ");
     txtApellido.setText("");
     txtCodigo.setText("");
     txtEdad.setText("");
